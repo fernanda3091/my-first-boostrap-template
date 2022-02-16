@@ -1,0 +1,10 @@
+.jumbotron-fluid{
+    background: #212529;
+    color: white;
+}
+.lead {
+    color: gray;
+}
+.card-text1{
+    text-decoration: line-through;
+}
